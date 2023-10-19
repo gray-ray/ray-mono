@@ -1,0 +1,3 @@
+packages: 
+  # 通用包
+  - 'packages/*'
